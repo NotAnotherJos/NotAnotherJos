@@ -2,8 +2,8 @@
 
 # Hey there, I'm Jocelyn!
 
-🎓 Master of Information Technology (AI & Full Stack) graduated from **University of New South Wales**, Sydney.  
-✨ Projects span **multimodal AI systems**, **LLM-based assistants**, **data analytics** and **full-stack web & WeChat mini-program development**, covering everything from frontend interactivity to backend scalability.
+🎓 Master of Information Technology (AI & Full Stack)  
+✨ Projects span **multimodal AI systems**, **LLM-based assistants**, **data analytics** and **full-stack web & WeChat mini-program development**, covering everything from frontend interactivity to backend scalability
 
 Currently exploring how **AI + creativity** can shape better digital experiences, 
 from scalable backend systems to emotionally intelligent, accessible interfaces.

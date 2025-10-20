@@ -19,6 +19,4 @@ from scalable backend systems to emotionally intelligent, accessible interfaces.
 
 ---
 
-### 📫 Connect
-[🌐 LinkedIn](https://www.linkedin.com/in/jocelyn-z-yang)    
 💔 *Long story short — my old GitHub decided to ghost me (email issue🙂‍↕️), so I had to start fresh here!*

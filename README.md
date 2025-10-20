@@ -2,11 +2,11 @@
 
 # 🌿 Hey there, I'm Jocelyn!
 
-🎓 Master of Information Technology (AI & Full Stack) graduated from UNSW, Sydney  
+🎓 Master of Information Technology (AI & Full Stack) graduated from UNSW, Sydney, after earning my **Bachelor’s in Computer Science from Beijing University of Posts and Telecommunications (BUPT)**.  
 💻 I love turning data, design, and language into practical, human-centered tech.  
-✨ Projects span **multimodal AI systems**, **LLM-based assistants**, and **full-stack web & WeChat mini-program development**, covering everything from frontend interactivity to backend scalability.
+✨ Projects span **multimodal AI systems**, **LLM-based assistants**, **data analytics** and **full-stack web & WeChat mini-program development**, covering everything from frontend interactivity to backend scalability.
 
-Currently exploring how **AI + creativity** can shape better digital experiences —  
+Currently exploring how **AI + creativity** can shape better digital experiences, 
 from scalable backend systems to emotionally intelligent, accessible interfaces.
 
 ---
@@ -20,5 +20,5 @@ from scalable backend systems to emotionally intelligent, accessible interfaces.
 ---
 
 ### 📫 Connect
-[🌐 LinkedIn](https://www.linkedin.com/in/jocelyn-z-yang) 
+[🌐 LinkedIn](https://www.linkedin.com/in/jocelyn-z-yang)    
 💔 *Long story short — my old GitHub decided to ghost me (email issue 🙈), so I had to start fresh here!*

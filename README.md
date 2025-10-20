@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🌿 Hey there, I'm Jocelyn!
+# Hey there, I'm Jocelyn!
 
 🎓 Master of Information Technology (AI & Full Stack) graduated from **University of New South Wales**, Sydney, after earning my Bachelor’s in Computer Science from **Beijing University of Posts and Telecommunications**.  
 💻 I love turning data, design, and language into practical, human-centered tech.  
@@ -11,7 +11,7 @@ from scalable backend systems to emotionally intelligent, accessible interfaces.
 
 ---
 
-### 🧠 Tech Stack
+### 🤖 Tech Stack
 **Languages:** Python | JavaScript | C | SQL | Solidity  
 **Frameworks:** React | Node.js (Express) | Supabase | Docker | PostgreSQL  
 **AI & ML:** OpenCV | Hugging Face | scikit-learn | Tesseract  
@@ -21,4 +21,4 @@ from scalable backend systems to emotionally intelligent, accessible interfaces.
 
 ### 📫 Connect
 [🌐 LinkedIn](https://www.linkedin.com/in/jocelyn-z-yang)    
-💔 *Long story short — my old GitHub decided to ghost me (email issue 🙈), so I had to start fresh here!*
+💔 *Long story short — my old GitHub decided to ghost me (email issue🙂‍↕️), so I had to start fresh here!*

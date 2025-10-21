@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hey there, I'm Jocelyn!
+## Hi there 👋 It's Jocelyn!
 
 🎓 Master of Information Technology (AI & Full Stack), Bachelor of Computer Science
 

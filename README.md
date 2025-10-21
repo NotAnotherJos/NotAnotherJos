@@ -24,4 +24,4 @@ from scalable backend systems to emotionally intelligent, accessible interfaces.
 
 ---
 
-💔 *Long story short — my old GitHub decided to ghost me (email issue🙂‍↕️), so I had to start fresh here!*
+💔 *Long story short — my old GitHub decided to ghost me (email issue😿), so I had to start fresh here!*

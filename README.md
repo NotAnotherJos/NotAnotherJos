@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Jocelyn!
 
-🎓 Master of Information Technology (AI & Full Stack), Bachelor of Computer Science
+🎓 Master of Information Technology (AI & Full Stack)
 
 ✨ Projects span **multimodal AI systems**, **LLM-based assistants**, **data analytics** and **full-stack web & WeChat mini-program development**, covering everything from frontend interactivity to backend scalability
 

@@ -10,9 +10,9 @@ from scalable backend systems to emotionally intelligent, accessible interfaces.
 ---
 
 ### 🤖 Tech Stack
-**Languages:** Python | JavaScript | C | SQL | Solidity | TypeScript
+**Languages:** Python | JavaScript | C | SQL 
 
-**Frameworks:** React | Node.js (Express) | Supabase | Docker | PostgreSQL | Spring Boot
+**Frameworks:** React | Node.js (Express)  | Docker | PostgreSQL | Spring Boot
 
 **AI & ML:** scikit-learn | HuggingFace | OpenCV | RAG | clustering/classification models | forecasting | anomaly detection  
 
